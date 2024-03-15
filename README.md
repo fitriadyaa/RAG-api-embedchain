@@ -3,6 +3,9 @@
 
 This project integrates the `embedchain` library to facilitate the creation of a Flask-based chatbot that leverages the OpenAI API to provide responses based on a predefined set of data.
 
+![App Screenshot](https://github.com/fitriadyaa/RAG-api-embedchain/blob/main/Screenshot.png?raw=true)
+
+
 ## Features
 
 - Chatbot integration using `embedchain` and Flask.
