@@ -19,7 +19,14 @@ This project integrates the `embedchain` library to facilitate the creation of a
 - Install the required Python packages:
   ```sh
   pip install Flask embedchain python-dotenv
-    
+
+## Configuration
+- Create a .env file in the root directory of the project.
+- Add your OpenAI API key to the .env file as follows:
+  ```sh
+  OPENAI_API_KEY=your_api_key_here
+  ```
+   
 ## Run Project
 
 ```bash
