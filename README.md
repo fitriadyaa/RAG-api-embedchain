@@ -23,6 +23,16 @@ This project integrates the `embedchain` library to facilitate the creation of a
   python app.py
 ```
 
+## Usage
+After starting the server, you can interact with the chatbot by sending POST requests to /chat with a JSON payload containing the query.
+
+Example request:
+```sh
+{
+  "query": "Berapa biaya kuliah informatika?"
+}
+```
+
 ## Support Me ☕
 
 If you find MyGithubUser helpful or just want to support my work, you can buy me a coffee! ☕
