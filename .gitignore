@@ -1,1 +1,4 @@
 .env
+RAG/__pycache__
+db/
+env/
